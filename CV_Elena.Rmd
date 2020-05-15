@@ -1,0 +1,97 @@
+---
+title: "Elena's resume"
+author: Monica Elena Cruz Najera
+date: "`r Sys.Date()`"
+phone: "+52 552 691 6039"
+email: "elenanajera@comunidad.unam.mx"
+profilepic: "pic.png"
+address: Ciudad de Mexico, Cuajimalpa
+github: https://github.com/elenacn
+output: pagedown::html_resume
+---
+
+Aside
+====================================
+<img src="pic.jpg" style="border-radius: 200px 200px 200px 200px;">
+
+Contacto info {#contact}
+------------------------------------
+
+<i class="fas fa-map-marker-alt"> [Ciudad de Mexico, Cuajimalpa]{slot="address"}</i>
+
+<i class="fas fa-envelope-square"> [elenanajera@comunidad.unam.mx]{slot="email"}</i>
+
+<i class="fas fa-mobile-alt"> [+52 552 691 6039]{slot="phone"}</i>
+
+<i class="fab fa-github"> [github.com/elenacn]{slot="github"}</i>
+
+Para mas informacion, por favor 
+
+contactarme via email.
+
+Skills
+------------------------------------
+- HTML 
+- CSS 
+- JavaScript 
+- LINUX Debian 
+- Responsive Design 
+- Bootstrap 
+- Git, y Github 
+- Visual Studio Code, Sublime Text
+
+
+Disclaimer {#disclaimer}
+------------------------------------
+
+Este CV fue hecho con R 
+package pagedown.
+
+Ultima actualizacion en `r Sys.Date()`.
+
+
+Main
+====================================
+
+Monica Elena Cruz Najera {#title}
+------------------------------------
+
+#### Desarrollador Frontend
+
+### Perfil
+
+Cuento con dos annos de experiencia en el uso de software (open source). 
+Me distingo por mi adaptabilidad a los cambios y trabajo en equipo.
+
+
+
+Education {data-icon=graduation-cap}
+------------------------------------
+
+### UNAM, FES Acatlan
+
+Lic. Matematicas Aplicadas y Computacion
+
+Naucalpan de Juarez, Mex.
+
+2020
+
+
+Professional Experience {data-icon=suitcase}
+------------------------------------
+
+### Figuras: Revista academica de investigacion 
+
+Desarrollador Frontend
+
+Naucalpan de Juarez, Mex.
+
+2018 - 2020
+
+- Desarrollador visual
+- Administracion de la revista 
+- Adaptacion web y movil 
+- Manejo de hojas de estilo 
+- Respaldos de la Base de Datos y del Proyecto en general
+
+https://revistafiguras.acatlan.unam.mx/index.php/figuras
